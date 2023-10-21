@@ -4,6 +4,6 @@ public class primeiraClasse {
 	
 	String nome;
 	String idade;
-	int cpf;
+	int cpf1;
 
 }
